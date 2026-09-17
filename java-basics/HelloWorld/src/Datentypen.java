@@ -1,4 +1,4 @@
-public class Main {
+public class Datentypen {
     public static void main(String[] args) {
         // Datentypen
         byte a = 127; // -128, -127, ...., -1, 0, 1, 2, ...., 127     8bit
