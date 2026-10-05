@@ -12,9 +12,9 @@ public class Main {
         System.out.println(p.withBrand("Samsung"));
         System.out.println(p);
 
-/*        Student s2 = Student.builder()
+       Student s2 = Student.builder()
                 .name("John")
                 .build();
-        System.out.println(s2);*/
+        System.out.println(s2);
     }
 }
